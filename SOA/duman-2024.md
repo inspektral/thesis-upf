@@ -1,6 +1,6 @@
-# Dumna et al. (2024) - Groove as a Multidimensional Participatory Experience
+# Duman et al. (2024) - Groove as a Multidimensional Participatory Experience
 
-The paper gives an overview of "groove". It analyzes various aspects, particually interesting are the idea of immersion and flow state. Everything is based on a questionaiire with few hundred participants.
+The paper gives an overview of "groove". It analyzes various aspects, particually interesting are the idea of immersion and flow state. Everything is based on a questionaire with few hundred participants.
 
 ## What's good
 - good overview of the concept of groove
