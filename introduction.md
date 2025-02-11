@@ -7,13 +7,4 @@ The intended final use of this system is to be used in a live performance settin
 
 ## The idea
 
-```mermaid
-graph LR
-    A[Audio Input] --> B[Neural Encoder]
-    A --> O[Onset Detection]
-    B --> C[Latent Space]
-    C --> D[Change Detection]
-
-    O --> G[Groove Output]
-    D --> G
-```
+![Diagram](/images/basic-overview-diagram.png)
