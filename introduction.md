@@ -7,4 +7,8 @@ The intended final use of this system is to be used in a live performance settin
 
 ## The idea
 
+The basic idea is to project the sound in a multidimensional space, which is supposed to represent also timbral features. A simple version of this could be the MFCC space that we plan to use as a baseline. A more interesting rapresentation would be a learned latent space, like the one of a neural encoder, preferably with sematic meaning of some sort. The project will consider some of the available models and try to adapt them to the task.
+
+Once the sound is represented by a trajectory in the latent space the idea is to track those movements and associate onsets with big changes in direction or speed. 
+
 ![Diagram](/images/basic-overview-diagram.png)
