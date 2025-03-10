@@ -1,2 +1,3 @@
 - [Introduction](introduction.md)
 - [State of the Art](SOA/index.md)
+- [Encoders](encoders.md)
